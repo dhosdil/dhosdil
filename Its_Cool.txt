@@ -1,2 +1,2 @@
 1 Hello World
-2. Branching
+2 Branching
